@@ -3,6 +3,9 @@
 - 🌱 Currently interested in Flutter, Java, Solidity and many other programming languages.
 - 💞️ Not really looking to colloborate yet since I am still in school.
 - 📫 How to reach me ( email : timothycgy6@gmail.com )
+- Contributed to:
+  Gas Fi (available on Google Play)
+  
 
 <!---
 zzSleepyCoderzz/zzSleepyCoderzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
