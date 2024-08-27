@@ -1,10 +1,10 @@
 - 👋 Greetings, my online handle on this site is @zzSleepyCoderzz
 - 👀 I’m interested in Programming and all things tech, since I am a Gen Z.
-- 🌱 Currently interested in Flutter, Java, Solidity and many other programming languages.
+- 🌱 Currently interested in Flutter, Solidity, Javascript and many more.
 - 💞️ Currently in University.
 - 📫 How to reach me ( email : chintimothy45@gmail.com )
 - Contributed to:
-  Gas Fi (available on Google Play)
+  Gas Fi
   
 
 <!---
