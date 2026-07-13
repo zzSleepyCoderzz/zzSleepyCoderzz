@@ -2,9 +2,6 @@
 - 👀 I’m interested in Programming and all things tech, since I am a Gen Z.
 - 🌱 Currently interested in Flutter, Solidity, Javascript and many more.
 - 💞️ Currently in University.
-- 📫 How to reach me ( email : chintimothy45@gmail.com )
-- Contributed to:
-  Gas Fi
   
 
 <!---
